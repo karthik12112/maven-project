@@ -161,7 +161,6 @@
       </plugins>
     </pluginManagement>
   </build>
-
   <dependencyManagement>
     <dependencies>
       <dependency>
